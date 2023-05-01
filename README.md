@@ -26,9 +26,36 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```<html>
+<head>
+  <title>Agricultural Search</title>
+</head>
+<body>
+  <h1>Agricultural Search</h1>
+  <h2>Sowing</h2>
+  <a href="https://www.google.com/search?q=sowing&source=lmns&bih=754&biw=1536&rlz=1C1CHBD_enIN1033IN1033&hl=en&sa=X&ved=2ahUKEwjjvcTk28z-AhVfA7cAHdpuA0YQ_AUoAHoECAEQAA">
+    <img src="sowing.jpeg">
+  </a>
+  <h2>Tillage</h2>
+  <a href="https://www.google.com/search?q=tillage&bih=754&biw=1479&rlz=1C1CHBD_enIN1033IN1033&hl=en&sxsrf=APwXEdf2YZXP6GgCjXeDbJFKndDsBjHnpA%3A1682689748029&ei=1M5LZIK2Aazv4-EP2MWmyAI&ved=0ahUKEwiC8Mrl28z-AhWs9zgGHdiiCSkQ4dUDCA8&uact=5&oq=tillage&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQA0oECEEYAFAAWABgAGgAcAB4AIABAIgBAJIBAJgBAA&sclient=gws-wiz-serp">
+    <img src="tillage.jpeg">
+  </a>
+  <h2>Pruning</h2>
+  <a href="https://www.google.com/search?q=pruning&source=lmns&bih=702&biw=938&rlz=1C1CHBD_enIN1033IN1033&hl=en&sa=X&ved=2ahUKEwjgze6f2sz-AhUy83MBHZlJBtUQ_AUoAHoECAEQAA">
+    <img src="pruning.jpeg">
+</a>
+<h2>Harvesting</h2>
+<a href="https://www.google.com/search?q=harvesting&source=lmns&bih=696&biw=1536&rlz=1C1CHBD_enIN1033IN1033&hl=en&sa=X&ved=2ahUKEwj0meWl3Mz-AhVBnNgFHXqCBskQ_AUoAHoECAEQAA">
+<img src="harvesting.jpeg">
+  </a>
+</body>
+</html>
+```
 
 
 ## OUTPUT
+![assignment41](https://user-images.githubusercontent.com/128878369/235444174-34d23084-837d-4e94-a033-ae9d64626d7a.png)
+![Assignment42](https://user-images.githubusercontent.com/128878369/235444251-13115e66-078c-4b56-81af-b604ebc44304.png)
 
 
 ## RESULT
